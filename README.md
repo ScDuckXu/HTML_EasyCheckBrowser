@@ -1,0 +1,2 @@
+# HTML_EasyCheckBrowser
+HTML检测用户是否使用老旧浏览器版本
